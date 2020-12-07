@@ -13,7 +13,7 @@ jobs:
       - name: Print Current Directory
         run: pwd
       - name: Check NPM Cli
-        run: npm
+        run: npm -v
       - name: Check dotnet Cli
         run: dotnet build
       - name: List Filed in Directory
