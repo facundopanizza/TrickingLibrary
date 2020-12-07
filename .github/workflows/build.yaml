@@ -10,5 +10,5 @@ jobs:
     steps:
       - name: Print Current Directory
         run: pwd
-      -name: List Filed in Directory
+      - name: List Filed in Directory
         run: ls
