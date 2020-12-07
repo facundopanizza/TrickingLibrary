@@ -1,0 +1,14 @@
+name: Build My Application
+
+# Run this workflow every time a new commit pushed to your repository
+on: push
+
+jobs:
+  build:
+    name: Build our App
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Current Directory
+        run: pwd
+      -name: List Filed in Directory
+        run: ls
