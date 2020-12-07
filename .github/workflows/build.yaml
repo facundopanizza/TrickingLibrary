@@ -12,5 +12,9 @@ jobs:
         uses: actions/checkout@v2
       - name: Print Current Directory
         run: pwd
+      - name: Check NPM Cli
+        run: npm
+      - name: Check dotnet Cli
+        run: dotnet -v
       - name: List Filed in Directory
         run: ls
