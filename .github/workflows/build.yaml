@@ -17,4 +17,4 @@ jobs:
       - name: Check dotnet Cli
         run: dotnet build
       - name: List Filed in Directory
-        run: ls
+        run: ls -R TrikingLibrary.Api/
