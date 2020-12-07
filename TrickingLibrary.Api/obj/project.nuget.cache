@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QG3pO3d2ImECmLqTK5xA9sCSf3KHk8lxLwhUneZCY7Z2v2E0qob2hhUirojXoq7RelbvdcPQ29NKeSb0LHj3VA==",
+  "success": true,
+  "projectFilePath": "/home/facundo/RiderProjects/TrickingLibrary/TrickingLibrary.Api/TrickingLibrary.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/facundo/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
